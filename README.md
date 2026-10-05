@@ -7,6 +7,6 @@
     prajwal 
   </tb>
 </tr>
-<butten>
+<butten "style"="colour"=red>
   click here
 </butten>
